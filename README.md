@@ -7,9 +7,17 @@ News Board API for test assessment
 - CRUD Comment Api (Nested Api under Posts)
 - Upvote a Post
 
+## Routes
+
+/posts/
+/posts/:id
+/posts/:id/comments/
+/posts/:id/comments/:id
+/posts/:id/upvote
+
 ## Installation
 
-1. Clone this repo
+1. Clone this repo and cd into it
 
     `git clone https://github.com/familbabayev/news-board.git`
 2. Run the container (if you get an error, run again) (for linux use sudo)
