@@ -10,9 +10,13 @@ News Board API for test assessment
 ## Routes
 
 /posts/
+
 /posts/:id
+
 /posts/:id/comments/
+
 /posts/:id/comments/:id
+
 /posts/:id/upvote
 
 ## Installation
